@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color: aqua;
+}
+
+.ordem {
+    background-color:dimgrey; 
+    color: white; 
+
+}
+
+.programacao{
+    background-color:darkslategrey;
+    color: white;
+}
+
+.comprovante{
+    background-color: rgb(2, 31, 31);
+    color: white;
+}
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+
+}
